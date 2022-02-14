@@ -85,4 +85,6 @@ DEFAULT_CONFIG = with_common_config({
         "lstm_cell_size": 64,
         "max_seq_len": 999999,
     },
+
+    "framework": "torch"
 })
